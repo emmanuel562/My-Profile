@@ -1,0 +1,32 @@
+body{
+      margin: 0px;
+}
+nav{
+      background-color: antiquewhite;
+      position: sticky;
+      top: 0;
+         border-bottom: 2px solid black ;
+}
+ul {
+      list-style-type: none;
+      display: inline;
+}
+li{
+      float: right;
+
+}
+nav, a{
+      text-decoration: none;
+      padding: 15px;
+      margin-right: 10px;
+      color: rgb(108, 102, 102);
+}
+a:hover{
+      color: black;
+}
+
+footer{
+      background-color: antiquewhite;
+      text-align: center;
+      padding: 3px;
+}
